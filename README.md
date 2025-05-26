@@ -2,7 +2,14 @@
 
 **Welcome to my GitHub profile!**
 
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 🌱 **Aspiring Python Developer** 
+
+
 
 🎯 I’m an aspiring **Python Developer** with a background in Electrical and Electronics Engineering. I'm currently focused on learning Python, object-oriented programming, and building practical projects to kickstart my development career.
 
