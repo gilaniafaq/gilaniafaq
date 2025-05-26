@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Syed Afaq Gilani 👋
 
-<!--
-**gilaniafaq/gilaniafaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Aspiring Python Developer**  
+Welcome to my GitHub! I’m passionate about learning and building with Python. Whether it’s tackling small scripts or exploring larger projects, I’m always seeking new challenges and growth opportunities.
 
-Here are some ideas to get you started:
+## 🐍 Skills & Interests
+- **Languages:** Python
+- **Current Focus:** Enhancing my Python skills and contributing to the open-source community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let’s Collaborate!
+I’m open to collaborating on Python-based projects or learning together with fellow developers.  
+If you have an idea or want to work together, feel free to reach out!
+
+## 📫 Connect with Me
+You can find my social links on my GitHub profile sidebar—let’s connect!
+
+---
+
+Thanks for stopping by! 🚀
